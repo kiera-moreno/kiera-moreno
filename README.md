@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Kiera 👋  
+**Data Scientist | Python Enthusiast | MLOps**
 
-<!--
-**kiera-moreno/kiera-moreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on:
+- Forecasting models for employee attrition and promotion
 
-Here are some ideas to get you started:
+🧠 I’m interested in:
+- Time series forecasting
+- Causal inference
+- MLOps and model deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I'm currently reading:
+- *Trustworthy Online Controlled Experiments* — Diane Tang, Ronny Kohavi, Ya Xu
+
+📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/kieramoreno)
